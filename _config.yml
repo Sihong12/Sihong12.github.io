@@ -14,7 +14,7 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: https://Sihong12.github.io
+url: https://sihong12.github.io
 baseurl:
 permalink: /:year/:month/:day/:title/
 
@@ -214,7 +214,7 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
-    GitHub: https://github.com/Sihong12
+    GitHub: https://github.com/sihong12
   #LinkLabel: Link
 
 
