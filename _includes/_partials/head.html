@@ -1,7 +1,12 @@
 <meta charset="UTF-8"/>
+<meta http-equiv="refresh" content="0; url=https://hongsii.github.io">
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 
+<script type="text/javascript">
+    // Javascript URL redirection
+    window.location.replace("https://hongsii.github.io");
+</script>
 
 {% if site.pace %}
   {% assign pace_css_uri = site.vendors._internal | append: '/pace/'| append: site.pace_theme | append: '.min.css?v=1.0.2' | relative_url %}
@@ -15,7 +20,6 @@
   <script src="{{ pace_js_uri }}"></script>
   <link href="{{ pace_css_uri }}" rel="stylesheet">
 {% endif %}
-
 
 {% if site.han %}
   {% assign Han_uri = site.vendors._internal | append: '/Han/dist/han.min.css?v=3.3' | relative_url %}
