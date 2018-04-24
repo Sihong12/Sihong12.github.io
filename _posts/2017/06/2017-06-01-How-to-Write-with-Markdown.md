@@ -2,7 +2,7 @@
 layout: post
 title: "마크다운으로 글쓰기 위한 문법"
 redirect_to:
-- https://hongsii.github.io
+- https://hongsii.github.io/2017/06/01/How-to-Write-with-Markdown/
 date: 2017-06-01 21:29
 description: '마크다운 문법 숙지'
 tags:

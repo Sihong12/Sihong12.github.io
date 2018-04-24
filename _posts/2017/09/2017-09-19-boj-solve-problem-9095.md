@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "9095번 - 1, 2, 3 더하기"
+redirect_to:
+- https://hongsii.github.io/2017/09/19/boj-solve-problem-9095/
 date: "2017-09-19 23:59"
 categories:
 - 알고리즘

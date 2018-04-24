@@ -1,6 +1,8 @@
 ---
 layout: post
 title: GET과 POST의 차이
+redirect_to:
+- https://hongsii.github.io/2017/08/02/what-is-the-difference-get-and-post/
 date: '2017-08-02 02:11'
 tags:
 - HTTP METHOD

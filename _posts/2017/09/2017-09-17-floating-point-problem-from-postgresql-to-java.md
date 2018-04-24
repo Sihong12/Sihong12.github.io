@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "부동소수점 표현 문제"
+redirect_to:
+- https://hongsii.github.io/2017/09/17/floating-point-problem-from-postgresql-to-java/
 date: "2017-09-17 23:50"
 categories:
 - Programming

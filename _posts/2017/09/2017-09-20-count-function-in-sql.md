@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "SQL - COUNT(*), COUNT(column)의 차이"
+redirect_to:
+- https://hongsii.github.io/2017/09/20/count-function-in-sql/
 date: "2017-09-20 23:28"
 categories:
 - Database

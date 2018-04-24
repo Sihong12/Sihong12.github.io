@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Vi 에디터
+redirect_to:
+- https://hongsii.github.io/2017/07/20/how-to-use-vi/
 date: '2017-07-20 01:52'
 tags:
 - vi

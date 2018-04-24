@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 'AES256 암호화 사용시 java.security.InvalidKeyException: Illegal key size'
+redirect_to:
+- https://hongsii.github.io/2018/04/05/aes256-java-security-invalidkeyexception-illegal-key-size-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95/
 description: ''
 date: '2018-04-05 23:04'
 categories:

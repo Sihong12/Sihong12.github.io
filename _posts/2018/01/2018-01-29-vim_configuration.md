@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Vim 설정하기
+redirect_to:
+- https://hongsii.github.io/2018/01/29/vim_configuration/
 date: '2018-01-29 00:41'
 tags:
   - vim

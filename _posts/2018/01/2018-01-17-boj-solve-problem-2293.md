@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 2293번 - 동전 1
+redirect_to:
+- https://hongsii.github.io/2018/01/17/boj-solve-problem-2293/
 description: 동전 교환 알고리즘
 date: '2018-01-17 01:13'
 categories:

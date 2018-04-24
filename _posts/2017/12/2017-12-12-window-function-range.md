@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "Window Function 범위 지정"
+redirect_to:
+- https://hongsii.github.io/2017/12/12/window-function-range/
 description: ""
 date: "2017-12-12 01:07"
 categories:

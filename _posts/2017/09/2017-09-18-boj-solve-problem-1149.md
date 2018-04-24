@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "1149번 - RGB거리"
+redirect_to:
+- https://hongsii.github.io/2017/09/18/boj-solve-problem-1149/
 date: "2017-09-18 23:17"
 categories:
 - 알고리즘

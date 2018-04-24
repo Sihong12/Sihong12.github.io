@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "2579번 - 계단 오르기"
+redirect_to:
+- https://hongsii.github.io/2017/09/18/boj-solve-problem-2579/
 description: ""
 date: "2017-09-18 23:37"
 categories:
